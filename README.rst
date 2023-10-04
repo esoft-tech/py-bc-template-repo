@@ -1,9 +1,6 @@
 py-bc-template-repo
 =================
 
-.. toctree::
-   :maxdepth: 4
-
 **How to use it?**
 
 Installing environment
