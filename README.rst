@@ -28,6 +28,12 @@ Inside project directory install dependencies.
 
     poetry install
 
+After that, install pre-commit hook.
+
+.. code:: bash
+
+    ./.venv/bin/python -m pre-commit install
+
 
 Done 🪄 🐈‍⬛ Now you can develop.
 
