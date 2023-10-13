@@ -6,7 +6,7 @@ authors = [
     "Esoft <it@esoft.tech>",
 ]
 license = "MIT"
-readme = "README.md"
+readme = "README.rst"
 homepage = "https://github.com/etagi-esoft/<your_project_name>"
 repository = "https://github.com/etagi-esoft/<your_project_name>"
 keywords = []
